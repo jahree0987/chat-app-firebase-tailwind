@@ -9,6 +9,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 then 
  ### 'npm run start' to start it on the browser. 
  
+ 
+ 2. You need to have 2 gmail and two browser to test this. 
+ 3. sign in the 2 Gmail  with different browsers 
+ 4. add the any of the 2 email in your contacts
+ 
 ## Available Scripts
 
 In the project directory, you can run:
