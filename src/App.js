@@ -18,7 +18,7 @@ function App() {
 
   const signUserOut = async () => {
     await signOut(auth);
-    cookies.remove("auth-token");
+//     cookies.remove("auth-token");
     setIsAuth(false);
     setRoom(null);
   };
