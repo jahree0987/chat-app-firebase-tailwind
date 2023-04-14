@@ -39,7 +39,7 @@ export const Auth = (props) => {
     const { setIsAuth } = props;
     try {
       const result = await signInWithPopup(auth, provider);
-      cookies.set("auth-token", result.user.refreshToken);
+//       cookies.set("auth-token", result.user.refreshToken);
       const { user } = result;
 
       const emailData = await getDocs(userRef);
