@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+1.First you have to run this on the terminal
+
+### 'npm install firebase' 
+
+then 
+ ### 'npm run start'
+ 
 ## Available Scripts
 
 In the project directory, you can run:
