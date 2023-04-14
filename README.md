@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### 'npm install firebase' 
 
 then 
- ### 'npm run start'
+ ### 'npm run start' to start it on the browser. 
  
 ## Available Scripts
 
